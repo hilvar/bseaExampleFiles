@@ -1,0 +1,4 @@
+A variable can hold different values at different times. It can hold the number of diamonds you have in your inventory.
+
+Your position in the world is held by a variable. As you walk around your position changes or "varies" and the contents of the variable change along with the change in position.
+

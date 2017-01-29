@@ -1,0 +1,4 @@
+Constants never change.
+
+The number of slots for things you can use is always 10. It's constant.
+
